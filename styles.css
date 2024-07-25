@@ -36,7 +36,7 @@ img{
     display:block;
     width:20vw;
     margin-left: auto;
-    margin-rigth:auto;
+    margin-right:auto;
 }
 
 .button{
@@ -97,13 +97,7 @@ header{
     .content{
         width: 40vw;
     }
-    img{
-    border-radius: 50%;
-    display:block;
-    width:20vw;
-    margin-left: auto;
-    margin-rigth:auto;
-}
+   
 }
 
 @media(max-width:400px){

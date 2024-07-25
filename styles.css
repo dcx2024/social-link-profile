@@ -97,6 +97,13 @@ header{
     .content{
         width: 40vw;
     }
+    img{
+    border-radius: 50%;
+    display:block;
+    width:20vw;
+    margin-left: auto;
+    margin-rigth:auto;
+}
 }
 
 @media(max-width:400px){
@@ -118,4 +125,5 @@ header{
             width: 70vw;
             border-radius: 20px;
         }
+    
     }

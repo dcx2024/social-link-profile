@@ -32,7 +32,11 @@ body{
 }
 
 img{
-    border-radius: 50%
+    border-radius: 50%;
+    display:block;
+    width:40vw;
+    margin-left: auto;
+    margin-rigth:auto;
 }
 
 .button{
